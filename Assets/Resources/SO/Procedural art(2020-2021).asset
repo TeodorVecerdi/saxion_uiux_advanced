@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 545c76cccd4947708643af991aa778fa, type: 3}
+  m_Name: Procedural art(2020-2021)
+  m_EditorClassIdentifier: 
+  Name: Procedural Art (2020-2021)
+  Description: 'It is generally advisable for future projects that students obtain
+    theoretical knowledge of procedural workflows in order to generate digital content
+    in a procedural manner as opposed to investing too much time into tedious and
+    manual labour. Understanding and being able to apply this knowledge is important
+    for establishing a pipeline which improves the workflow and lowers the time it
+    takes to author content for everyone involved in the long run. We teach this
+    in the context of small-scale assignment using the game engine Unity, pre-existing-
+    and self-made tools that enable all CMGT roles to create re-usable, adaptable
+    and non-destructive procedural content with an individual approach and focus.
+
+    In
+    order to develop media products, both for the movie- and game industry, you need
+    to have knowledge about the current technologies used in the field which will
+    enable these new workflows. We use technologies and approaches to let digital
+    content be generated for us - the developer and the user as well. It is important
+    to understand what happens and how things happen in between: how content is authored
+    procedurally, what its benefits are and why we should make use of it as developers
+    of interactive content.'
+  Instructors: 'Instructors: Max Klostermann (MKL24), Paul Bonsma (PBO06), Hans Wichman
+    (HWI05), Mark Schipper (MSC19), Taco van Loon (TLO02), Bram den Hond (BHO03)
+    and Yiwei Jiang (YJI01)'
+  LiveActivity: {fileID: 0}
+  NewRecordingActivity: {fileID: 0}
+  AllActivity:
+  - {fileID: 11400000, guid: 4c199a12df3fcb8469a32a4136f4cd53, type: 2}
+  - {fileID: 11400000, guid: 03dfc9336c5fda84fb394e7a3231b917, type: 2}
+  - {fileID: 11400000, guid: 3cb70757aebe91d41b3f35e3fde118b5, type: 2}
+  - {fileID: 11400000, guid: a3784157ebe97014a84129c1da86a67d, type: 2}
+  - {fileID: 11400000, guid: 7cb0ecd3243cb0d44b7c6b4cb97ce004, type: 2}
+  - {fileID: 11400000, guid: d794b88eb7d3a4a4fa252f92f578d7e8, type: 2}
+  - {fileID: 11400000, guid: 7c7797f1a4eef054cbdf4709655dc588, type: 2}
+  - {fileID: 11400000, guid: c18a092d4f40bd4469ca324f1fa57774, type: 2}
+  - {fileID: 11400000, guid: f7ccee497100a3c439a36dc4a775ea3b, type: 2}

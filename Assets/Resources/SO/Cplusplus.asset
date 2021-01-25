@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 545c76cccd4947708643af991aa778fa, type: 3}
+  m_Name: Cplusplus
+  m_EditorClassIdentifier: 
+  Name: C++ (2020-2021)
+  Description: 'C++ is a powerful programming language used over a wide span of applications,
+    from operational systems to real-time interactive applications. It was developed
+    in the late ''70s enhancing the C language features by fully supporting Objected-Oriented
+    Programming, or, as stated simply: by allowing classes. According to the annual
+    report by Stack Overflow, C++ is still the 9th most popular programming language
+    for both the general public and professionals.
+
+    To create and develop interactive
+    applications, the student must know different programming abstraction levels,
+    including a lower-level approach that allows for more control of the resources
+    available (such as computer memory), leading to a more efficient and high-performance
+    application. C++ allows that approach, and it''s used by the industry to create
+    breakthrough and innovative applications, especially in the field of Games and
+    Interactive Media.
+
+    Additionally, C++ has matured over the decades, adding
+    features and becoming a multiparadigm language, leveling up to stand among the
+    newest programming languages. At the same time, this course won''t grasp its
+    full potential but will lead the student in a comfortable position to study on
+    his/her own and learn its darkest and deepest secrets.'
+  Instructors: 'Instructors: Yvens R Serpa (YRE03), Ron Talman (RTA04)'
+  LiveActivity: {fileID: 0}
+  NewRecordingActivity: {fileID: 0}
+  AllActivity:
+  - {fileID: 11400000, guid: 9121df168a0fe034f8cdd829078726c4, type: 2}
+  - {fileID: 11400000, guid: 93fef568a9c7f9b44b652fc3caa8d336, type: 2}
+  - {fileID: 11400000, guid: 4cd67589bf02b334881f997fcebdad4f, type: 2}
+  - {fileID: 11400000, guid: d50dc725d63581c459c7638ea62169d9, type: 2}
+  - {fileID: 11400000, guid: 4beca81a6a9216542ba1c0c6d172e083, type: 2}

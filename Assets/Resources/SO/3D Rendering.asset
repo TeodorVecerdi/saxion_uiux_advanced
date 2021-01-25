@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 545c76cccd4947708643af991aa778fa, type: 3}
+  m_Name: 3D Rendering
+  m_EditorClassIdentifier: 
+  Name: 3D Rendering (2020 - 2021)
+  Description: "During the previous cluster you gained some experience in different
+    areas needed to pass this cluster successfully, such as C++, SFML and 3D Math.
+    This cluster recaps and builds upon that knowledge and aims to teach you the
+    basics of 3D rendering using OpenGL in a practical way. \nThe course is taught
+    using C++ and a small in-house engine called the Micro Game Engine (MGE). \nTopics
+    include the different libraries required, programmable shader pipelines, lighting
+    models and terrain shaders among others."
+  Instructors: "Instructors: Hans Wichman; Yvens Rebou\xE7as Serpa"
+  LiveActivity: {fileID: 11400000, guid: 7b59fb069f5fb674a91d6f117dc3aa1f, type: 2}
+  NewRecordingActivity: {fileID: 11400000, guid: 59c850bc45ed78147b2a37bbe120d84a, type: 2}
+  AllActivity:
+  - {fileID: 11400000, guid: 59e2babe14f0014479c497bea91ba93d, type: 2}
+  - {fileID: 11400000, guid: 1f1838c4108cecc4abf7b78c71f77d44, type: 2}
+  - {fileID: 11400000, guid: 4de0bee5fc5fb454597e9287c6beeb63, type: 2}
+  - {fileID: 11400000, guid: 1c7398dc0bbf2ff4a8f575f079db5b59, type: 2}
+  - {fileID: 11400000, guid: 59c850bc45ed78147b2a37bbe120d84a, type: 2}
+  - {fileID: 11400000, guid: cad8512e62e6ab646a7fe9b25a1a2a03, type: 2}
+  - {fileID: 11400000, guid: c07a7028efeb92e4ca1cc377e31822fa, type: 2}

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 545c76cccd4947708643af991aa778fa, type: 3}
+  m_Name: UX UI Advanced
+  m_EditorClassIdentifier: 
+  Name: UI / UX Advanced (2020-2021)
+  Description: 'With the rapid development of technology, and the number of devices
+    and services that compete for our time and attention, it makes sense that people
+    want to consume services and experiences as quickly and as to the point as possible.
+    They also need to be enjoyable to use and easy to pick up, or else people move
+    on to the next thing that requires our attention. This is why UI/UX, which focuses
+    on how users interact with a system in order to improve its acceptability and
+    ease of use, is so important nowadays.
+
+    In the previous module (UI/UX),
+    students learned and applied UI/UX design theory to develop wireframe interfaces
+    for several systems, or improve existing flawed ones. In this module, students
+    will a) acquire practical knowledge on developing fully functional solutions
+    from Hi-Fi prototypes, b) acquire a deeper understanding of the design of user
+    tests/experiments, and c) learn how to analyze the results obtained from user
+    tests using descriptive statistics.'
+  Instructors: "Instructors: Patrick Huitema;  Alejandro Moreno Celleri;  Herman
+    Paassen;  Yvens Rebou\xE7as Serpa;  Tim Roosen;  Boris Slaghuis;"
+  LiveActivity: {fileID: 0}
+  NewRecordingActivity: {fileID: 11400000, guid: ab09fc4bbffdfd44bacdf5ec3ee18b2e, type: 2}
+  AllActivity:
+  - {fileID: 11400000, guid: ab09fc4bbffdfd44bacdf5ec3ee18b2e, type: 2}
+  - {fileID: 11400000, guid: 1a4dd49f01588d14d88cfab07ced75f4, type: 2}
+  - {fileID: 11400000, guid: 7f8f921ce89c951479fa59b6cbe6141b, type: 2}

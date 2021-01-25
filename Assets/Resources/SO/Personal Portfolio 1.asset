@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 545c76cccd4947708643af991aa778fa, type: 3}
+  m_Name: Personal Portfolio 1
+  m_EditorClassIdentifier: 
+  Name: Personal Portfolio (2020 - 2021)
+  Description: "After completing your first year, it is now time to develop your
+    own profile within the creative industry. Based on your chosen trajectory, you
+    are now going to choose how to develop your professional self in the next years.
+    For a strong position as a professional in the creative industry, you need \u2013
+    besides a good product portfolio and a degree \u2013 to be able to demonstrate
+    your professional skills. You could either develop yourself into a generalist,
+    or a specialist. The focus of the CMGT programme is to lay a broad foundation
+    in the first year, and more focus in the further years. This will enable you
+    to develop yourself into a \u201CT-shaped professional\u201D. \r\nTo achieve
+    this, you have to develop your own learning outcomes. You are going to work on
+    these learning outcomes during the personal project modules in your second study
+    year. This will prepare you for the second half your study: your internship,
+    minor, 3S-project and graduation."
+  Instructors: "Instructors: Mark Boerrigter;  Henri Bruel;  Joeri Constandse;  Margit
+    Driehuis;  Hester Ent van der;  Rene Heijnen;  Bram Hond den;  Sarah Hoogt van
+    der;  Ruben Hulzebosch;  Yiwei Jiang;  Kasper Kamperman;  Leontine Kamphuis; 
+    Taco Loon van;  Anneke Lubbers;  Lukas Malec;  Yvens Rebou\xE7as Serpa;  Tim
+    Roosen;  Harry Sanderink;  Mark Schipper;  Ruben Sinkeldam;  Boris Slaghuis; 
+    Florien Ticheler;  Janet Veen - Drijver van der;  Afra Willems"
+  LiveActivity: {fileID: 0}
+  NewRecordingActivity: {fileID: 0}
+  AllActivity:
+  - {fileID: 11400000, guid: e2c52624c61f84547808362bf88d611a, type: 2}
+  - {fileID: 11400000, guid: 3a4db98557f7aa14fa324688d160c505, type: 2}
+  - {fileID: 11400000, guid: 86442d4ba435a064d9b781b5d955d4dc, type: 2}
+  - {fileID: 11400000, guid: c0b62e4d2b0837d43b8568b53129d28e, type: 2}
+  - {fileID: 11400000, guid: 283c774ce20358548bfef9c2517514bd, type: 2}
